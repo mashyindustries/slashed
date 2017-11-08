@@ -1,0 +1,19 @@
+{
+  "name": "mashedjs",
+  "version": "0.0.1",
+  "description": "Fast, opinioniated, web framework for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashyindustries/mashedjs.git"
+  },
+  "author": "Albert Mashy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mashyindustries/mashedjs/issues"
+  },
+  "homepage": "https://github.com/mashyindustries/mashedjs#readme"
+}
