@@ -1,6 +1,6 @@
 {
   "name": "mashedjs",
-  "version": "0.1.2",
+  "version": "0.1.24",
   "description": "NodeJS Bare bones web framework & router",
   "main": "index.js",
   "dependencies": {
