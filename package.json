@@ -1,7 +1,7 @@
 {
-  "name": "mashed",
+  "name": "slashed",
   "version": "0.0.1-Alpha1",
-  "description": "NodeJS Opinionated web framework",
+  "description": "Fast, opinionated, minimalist web framework for NodeJS",
   "main": "index.js",
   "dependencies": {
     "mime-types": "2.1.x",

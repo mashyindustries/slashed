@@ -1,3 +1,24 @@
-# ![mashedjs](https://i.imgur.com/FpM9SYw.png "mashedjs")
+# Slashed
 
-Fast, unopinionated, minimalist web framework for node.
+Fast, opinionated, minimalist web framework for nodeJS
+
+## Usage:
+
+```
+'use strict'
+
+var slashed = require('./index')
+var router = slashed.Router()
+
+var basedir = __dirname
+
+var app = slashed(basedir)
+
+router.get('/', function(req, res){
+    res.send('Hello World')
+})
+
+app.use(router)
+
+app.listen(8000)
+```

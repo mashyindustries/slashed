@@ -1,3 +1,3 @@
-'use strict';
+'use strict'
 
-module.exports = require('./lib/mashed');
+module.exports = require('./lib/slashed')
