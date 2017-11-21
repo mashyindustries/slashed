@@ -1,7 +1,7 @@
 {
   "name": "mashed",
   "version": "0.0.1-Alpha",
-  "description": "NodeJS bare bones web framework & router",
+  "description": "NodeJS Opinionated web framework",
   "main": "index.js",
   "dependencies": {
     "mime-types": "2.1.x",
