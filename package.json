@@ -1,6 +1,6 @@
 {
   "name": "slashed",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Fast, opinionated, minimalist web framework for NodeJS",
   "main": "index.js",
   "dependencies": {
@@ -13,7 +13,7 @@
     "methods": "1.1.x",
     "path-to-regexp": "^2.1.x",
     "colors": "1.1.x",
-    "stexengine": "0.1.4",
+    "stexengine": "0.1.5",
     "caller": "1.0.1",
     "qs": "6.5.x"
   },
