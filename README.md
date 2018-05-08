@@ -7,12 +7,10 @@ Fast, opinionated, minimalist web framework for nodeJS
 ```
 'use strict'
 
-var slashed = require('./index')
+var slashed = require('slashed')
 var router = slashed.Router()
 
-var basedir = __dirname
-
-var app = slashed(basedir)
+var app = slashed(__dirname)
 
 router.get('/', function(req, res){
     res.send('Hello World')
@@ -22,3 +20,9 @@ app.use(router)
 
 app.listen(8000)
 ```
+
+## Configuration
+Docs Coming Soon
+
+## Routing
+Docs Coming Soon
