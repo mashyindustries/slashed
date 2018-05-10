@@ -15,7 +15,8 @@
     "colors": "1.1.x",
     "stexengine": "0.1.8",
     "caller": "1.0.1",
-    "qs": "6.5.x"
+    "qs": "6.5.x",
+    "ws": "^2.0.0"
   },
   "scripts": {
     "test": "node test/test.js"
