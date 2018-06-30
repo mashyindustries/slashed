@@ -16,9 +16,10 @@
     "setprototypeof": "1.1.x",
     "statuses": "1.4.x",
     "stexengine": "0.1.8",
-    "ws": "^2.0.0"
-    "qs": "6.5.x",
-    "caller": "1.0.1",
+    "ws": "2.0.x",
+    "cookie": "0.3.x",
+    "cookie-signature": "1.1.x",
+    "utils-merge": "1.0.x"
   },
   "scripts": {
     "test": "node test/test.js"
